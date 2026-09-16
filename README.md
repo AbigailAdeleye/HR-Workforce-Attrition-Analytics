@@ -1,5 +1,7 @@
 # **HR Workforce Planning & Attrition Analytics**
 
+![HR Workforce Report](HR%20Workforce%20report.png)
+
 ## **Overview**
 This Power BI report was developed as part of the ZoomCharts HR Workforce Planning & Attrition Analytics Challenge.
 The report provides an interactive view of workforce growth, employee attrition, workforce gaps, and recruitment activity. It helps HR and business leaders understand whether the organization is meeting its workforce plans, where staffing gaps exist, and which areas require closer attention.
