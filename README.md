@@ -1,6 +1,7 @@
 # **HR Workforce Planning & Attrition Analytics**
 
-![HR Workforce Report](HR%20Workforce%20report.png)
+![HR Workforce Report](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Workforce%20Report.png?raw=true
+)
 
 ## **Overview**
 This Power BI report was developed as part of the ZoomCharts HR Workforce Planning & Attrition Analytics Challenge.
@@ -9,6 +10,8 @@ The report provides an interactive view of workforce growth, employee attrition,
 ## **Problem Statement**
 Organizations need to maintain the right workforce capacity while managing employee turnover and recruitment demands.
 This analysis addresses the challenge of understanding where actual workforce levels fall below plan, how employee exits are affecting workforce capacity, and whether recruitment activity is supporting workforce needs.
+
+![page1](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Report%20pg%201.png?raw=true)
 
 ## **Business Questions Answered**
 The report was designed to answer:
@@ -23,6 +26,8 @@ Which departments have the largest workforce gaps?
 Where is recruitment demand highest?
 How long does it take to fill open positions?
 
+![page2](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Report%20pg%202.png?raw=true)
+
 ## **Tools & Methodology**
 
 ### *Tool Used*
@@ -30,11 +35,11 @@ How long does it take to fill open positions?
 * Power BI for data modeling, analysis, and visualization
 * DAX (Data Analysis Expressions) for calculated measures and KPIs
 * PowerPoint for report wireframe
-
 The analysis used KPI cards, time-series analysis, departmental comparisons, tables, and interactive drillthroughs.
+
 The report was structured into three areas: Workforce Overview → Attrition Analysis → Workforce Planning & Recruitment
 
-This approach connects workforce movement with employee attrition and recruitment requirements to provide a broader view of workforce planning.
+![page3](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Report%20Pg3.png?raw=true)
 
 ## **Key Insights**
 Workforce levels remain below plan: The report shows a -20.63% headcount variance, indicating that actual workforce levels are below the relevant planned level.
