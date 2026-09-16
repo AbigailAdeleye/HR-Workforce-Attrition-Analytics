@@ -16,15 +16,15 @@ This analysis addresses the challenge of understanding where actual workforce le
 ## **Business Questions Answered**
 The report was designed to answer:
 
-How does actual headcount compare with planned workforce levels?
-How are hiring and termination activities changing over time?
-What is the organization's attrition pattern?
-Which tenure groups and roles experience higher attrition?
-What are the main termination reasons?
-How do voluntary and involuntary exits differ?
-Which departments have the largest workforce gaps?
-Where is recruitment demand highest?
-How long does it take to fill open positions?
+*How does actual headcount compare with planned workforce levels?
+*How are hiring and termination activities changing over time?
+*What is the organization's attrition pattern?
+*Which tenure groups and roles experience higher attrition?
+*What are the main termination reasons?
+*How do voluntary and involuntary exits differ?
+*Which departments have the largest workforce gaps?
+*Where is recruitment demand highest?
+*How long does it take to fill open positions?
 
 ![page2](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Report%20pg%202.png?raw=true)
 
@@ -60,6 +60,4 @@ Separate restructuring-related exits from voluntary turnover when evaluating ret
 Use recruitment and workforce metrics together to monitor whether hiring activity is effectively closing staffing gaps.
 Align workforce planning with salary budgets to understand the financial impact of staffing decisions.
 
-## **Conclusion**
-
-The analysis shows that workforce gaps, employee attrition, and recruitment activity are closely connected. While the organization is actively hiring, actual workforce levels remain below plan, with certain departments experiencing particularly large gaps and recruitment demands. The report provides HR leaders with a clearer view of where workforce and retention efforts require further investigation.
+![fullpage](https://github.com/AbigailAdeleye/HR-Workforce-Attrition-Analytics/blob/main/HR%20Workforce%20Planning%20full%20page.png?raw=true)
